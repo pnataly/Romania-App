@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <!-- Romanian translation for color red -->
+    <string name="ro_color_red">rosu</string>
+
+    <!-- Romanian translation for color yellow -->
+    <string name="ro_color_yellow">galben</string>
+
+    <!-- Romanian translation for color green -->
+    <string name="ro_color_green">verde</string>
+
+    <!-- Romanian translation for color brown -->
+    <string name="ro_color_brown">maro</string>
+
+    <!-- Romanian translation for color black -->
+    <string name="ro_color_black">negru</string>
+
+    <!-- Romanian translation for color blue -->
+    <string name="ro_color_blue">albastru</string>
+
+    <!-- Romanian translation for color white -->
+    <string name="ro_color_white">alb</string>
+
+    <!-- Romanian translation for color orange -->
+    <string name="ro_color_orange">portocale</string>
+
+    <!-- Romanian translation for color purple -->
+    <string name="ro_color_purple">violet</string>
+
+    <!-- Romanian translation for father -->
+    <string name="ro_family_father">tata</string>
+
+    <!-- Romanian translation for mother -->
+    <string name="ro_family_mother">mama</string>
+
+    <!-- Romanian translation for son -->
+    <string name="ro_family_son">fiu</string>
+
+    <!-- Romanian translation for daughter -->
+    <string name="ro_family_daughter">fiica</string>
+
+    <!-- Romanian translation for sister -->
+    <string name="ro_family_sister">sora</string>
+
+    <!-- Romanian translation for brother -->
+    <string name="ro_family_brother">frate</string>
+
+    <!-- Romanian translation for grandson -->
+    <string name="ro_family_grandson">nepot</string>
+
+    <!-- Romanian translation for grandauther -->
+    <string name="ro_family_grandauther">nepoata</string>
+
+    <!-- Romanian translation for uncle -->
+    <string name="ro_family_uncle">unchi</string>
+
+    <!-- Romanian translation for aunt -->
+    <string name="ro_family_aunt">matusa</string>
+
+    <!-- Romanian translation for grandmother -->
+    <string name="ro_family_grandmother">bunica</string>
+
+    <!-- Romanian translation for grandfather -->
+    <string name="ro_family_grandfather">bunic</string>
+
+    <!-- Romanian translation for number one -->
+    <string name="ro_number_one">unu</string>
+
+    <!-- Romanian translation for number two -->
+    <string name="ro_number_two">doua</string>
+
+    <!-- Romanian translation for number three -->
+    <string name="ro_number_three">trei</string>
+
+    <!-- Romanian translation for number four -->
+    <string name="ro_number_four">patru</string>
+
+    <!-- Romanian translation for number five -->
+    <string name="ro_number_five">cinci</string>
+
+    <!-- Romanian translation for number six -->
+    <string name="ro_number_six">sase</string>
+
+    <!-- Romanian translation for number seven -->
+    <string name="ro_number_seven">sapte</string>
+
+    <!-- Romanian translation for number eight -->
+    <string name="ro_number_eight">opt</string>
+
+    <!-- Romanian translation for number nine -->
+    <string name="ro_number_nine">noua</string>
+
+    <!-- Romanian translation for number ten -->
+    <string name="ro_number_ten">zece</string>
+
+    <!-- Romanian translation for phrase "Where are you going?" -->
+    <string name="ro_phrase_where_are_you_going">Unde te duci?</string>
+
+    <!-- Romanian translation for phrase "What is your name?" -->
+    <string name="ro_phrase_what_is_your_name">Cum te numesti?</string>
+
+    <!-- Romanian translation for phrase "My name is..." -->
+    <string name="ro_phrase_my_name_is">Nemele meu este...</string>
+
+    <!-- Romanian translation for phrase "How are you feeling?" -->
+    <string name="ro_phrase_how_are_you_feeling">Cum te simtit?</string>
+
+    <!-- Romanian translation for phrase "I'm feeling good." -->
+    <string name="ro_phrase_im_feeling_good">Ma simt bine</string>
+
+    <!-- Romanian translation for phrase "Let's go." -->
+    <string name="ro_phrase_lets_go">Sa mergem</string>
+
+    <!-- Romanian translation for phrase "good morning." -->
+    <string name="ro_phrase_good_morning">Buna Dimineata</string>
+
+    <!-- Romanian translation for phrase "good night." -->
+    <string name="ro_phrase_good_night">Noapta Buna</string>
+
+    <!-- Romanian translation for phrase "thank you." -->
+    <string name="ro_phrase_thank_you">Multumesc</string>
+
+    <!-- Romanian translation for phrase "please." -->
+    <string name="ro_phrase_please">Va rog</string>
+
+    <!-- Romanian translation for phrase "pleasure." -->
+    <string name="ro_phrase_pleasure">Cu Placere</string>
+
+    <!-- Romanian translation for phrase "goodbye." -->
+    <string name="ro_phrase_goodbye">La revedere</string>
+</resources>
